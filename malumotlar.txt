@@ -1,0 +1,48 @@
+IP Manzil: 188.113.244.12
+Shahar: Tashkent
+Davlat: UZ
+Tashkilot: AS49273 COSCOM Liability Limited Company
+Vaqt Mintaqasi: Asia/Tashkent
+Kompaniya: AS49273 COSCOM Liability Limited Company
+IP Manzil: 188.113.244.12
+Shahar: Tashkent
+Davlat: UZ
+Tashkilot: AS49273 COSCOM Liability Limited Company
+Vaqt Mintaqasi: Asia/Tashkent
+Kompaniya: AS49273 COSCOM Liability Limited Company
+
+IP Manzil: 108.177.14.113
+Shahar: Hamina
+Davlat: FI
+Tashkilot: AS15169 Google LLC
+Vaqt Mintaqasi: Europe/Helsinki
+Kompaniya: AS15169 Google LLC
+
+IP Manzil: 108.177.14.113
+Shahar: Hamina
+Davlat: FI
+Tashkilot: AS15169 Google LLC
+Vaqt Mintaqasi: Europe/Helsinki
+Kompaniya: AS15169 Google LLC
+
+IP Manzil: 
+Shahar: Ma'lumot mavjud emas
+Davlat: Ma'lumot mavjud emas
+Tashkilot: Ma'lumot mavjud emas
+Vaqt Mintaqasi: Ma'lumot mavjud emas
+Kompaniya: Ma'lumot mavjud emas
+
+IP Manzil: 108.177.14.113
+Shahar: Hamina
+Davlat: FI
+Tashkilot: AS15169 Google LLC
+Vaqt Mintaqasi: Europe/Helsinki
+Kompaniya: AS15169 Google LLC
+
+IP Manzil: 188.113.244.12
+Shahar: Tashkent
+Davlat: UZ
+Tashkilot: AS49273 COSCOM Liability Limited Company
+Vaqt Mintaqasi: Asia/Tashkent
+Kompaniya: AS49273 COSCOM Liability Limited Company
+

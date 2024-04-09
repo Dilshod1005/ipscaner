@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP va Portlar</title>
+    <style>
+        /* CSS-styling */
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .center {
+            text-align: center;
+        }
+        input[type="text"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: white;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2 class="center">IP Manzil va Portlar</h2>
+    <form action="amal.php" method="post">
+        <label for="ip_address">IP Manzil:</label>
+        <input type="text" id="ip_address" name="ip_address" required><br>
+        <label for="port_range">Port Oralig'i (masalan, 1-1000):</label>
+        <input type="text" id="port_range" name="port_range" required><br>
+        <input type="submit" value="Ma'lumotlarni olish">
+    </form>
+</div>
+</body>
+</html>
+
